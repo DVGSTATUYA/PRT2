@@ -22,10 +22,11 @@ uvicorn main:app --reload
 Сервер запустится по адресу: http://localhost:8000
 
 ### 3. Тестирование
-
+1.
 ```
 python client_example.py
 ```
+2.
 ```
-test_api.py    
+python test_api.py    
 ```
