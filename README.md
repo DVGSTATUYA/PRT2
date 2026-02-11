@@ -11,7 +11,7 @@ REST API для управления данными, разработанное 
 ### 1. Установка зависимостей
 
 ```
-pip install fastapi uvicorn
+pip install fastapi uvicorn httpx pytest requests
 ```
 
 ### 2. Запуск сервера
