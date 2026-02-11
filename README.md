@@ -20,3 +20,12 @@ pip install fastapi uvicorn httpx pytest requests
 uvicorn main:app --reload
 ```
 Сервер запустится по адресу: http://localhost:8000
+
+### 3. Тестирование
+
+```
+python client_example.py
+```
+```
+test_api.py    
+```
